@@ -1,0 +1,38 @@
+# Node modules
+/node_modules/
+/client/node_modules/
+/server/node_modules/
+
+
+# Build output
+/dist/
+/build/
+
+# Environment variables
+/.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings (e.g., for VS Code)
+.vscode/
+
+# npm packages (you can skip if you use a lock file like package-lock.json)
+package-lock.json
+
+# MacOS Finder
+/.vscode/
+/.idea/
+
+# React app build directory
+/build
+
+# Debug files
+*.tgz
