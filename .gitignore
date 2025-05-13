@@ -24,8 +24,6 @@ Thumbs.db
 # IDE settings (e.g., for VS Code)
 .vscode/
 
-# npm packages (you can skip if you use a lock file like package-lock.json)
-package-lock.json
 
 # MacOS Finder
 /.vscode/
